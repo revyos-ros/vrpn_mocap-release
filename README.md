@@ -1,3 +1,26 @@
+## vrpn_mocap (jazzy) - 1.1.0-5
+
+The packages in the `vrpn_mocap` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy vrpn_mocap --override-release-repository-push-url git@github.com:revyos-ros/vrpn_mocap-release` on `Tue, 18 Jun 2024 13:47:15 -0000`
+
+The `vrpn_mocap` package was released.
+
+Version of package(s) in repository `vrpn_mocap`:
+
+- upstream repository: https://github.com/alvinsunyixiao/vrpn_mocap.git
+- release repository: https://github.com/revyos-ros/vrpn_mocap-release.git
+- rosdistro version: `1.1.0-5`
+- old version: `1.1.0-4`
+- new version: `1.1.0-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## vrpn_mocap (rolling) - 1.1.0-3
 
 The packages in the `vrpn_mocap` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling vrpn_mocap` on `Tue, 16 Apr 2024 23:19:06 -0000`
